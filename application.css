@@ -14,7 +14,7 @@
 },
 .modal-90w {
       width: 90w;
-      max-width: none!important;
+      max-width: 100vw;
       min-width: 100vw;
       margin-left: 4px;
       margin-right: 6px;
