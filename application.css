@@ -12,6 +12,9 @@
 .modal-90w {
       width: 90vw;
       max-width: 100vw;
+      min-width: 100vw;
+      margin-left: 4px;
+      margin-right: 6px;
       height: 100vh;
       padding-top: 80px;
 }
