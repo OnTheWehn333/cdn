@@ -9,3 +9,8 @@
   left: 0;
   width: 100%;
 }
+.modal-90vw {
+      width: 90vw;
+      height: "100vh";
+      paddingTop: "80px";
+    }
