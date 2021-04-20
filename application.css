@@ -17,8 +17,9 @@
       margin-right: 6px;
       height: 100vh;
       padding-top: 80px;
-}
-.modal-dialog {
+  .modal-dialog {
       max-width: 180px;
 }
+}
+
 
